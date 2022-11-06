@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "FannBotz" //namabot kalian
-global.ownername= "Fann" //nama kalian
+global.botname = "ALxNiluh" //namabot kalian
+global.ownername= "NiluhChan" //nama kalian
 global.myweb ="http://fanngtps.epizy.com" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@FannTube1" //bebas asal jan hapus
+global.youtube = "https://youtube.com/kepoooo1" //bebas asal jan hapus
 global.myweb2 = "-" //bebas
-global.email = "rilisan50@gmail.com" //bebas
+global.email = "ALxNiluh@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285713110263'] //premium user
-global.owner = ["6285713110263","6285713110263","6285713110263"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285713110263" // nomor wa kalian
-global.ownernomerr = "6285713110263" //nmr wa kalian
+global.premium = ['4915256954581'] //premium user
+global.owner = ["4915256954581","6281246711289","6285713110263"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "4915256954581" // nomor wa kalian
+global.ownernomerr = "6281246711289" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.png" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '' //sticker wm ubah
-global.author = '' //sticker wm ganti nama kalian
+global.packname = 'ALxNiluh' //sticker wm ubah
+global.author = 'ALxNiluh' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
